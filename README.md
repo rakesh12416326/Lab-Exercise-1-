@@ -154,8 +154,7 @@ Canva can be used for:
 ```
 <img width="1910" height="883" alt="image" src="https://github.com/user-attachments/assets/ba54d27b-e684-4453-8dfe-51e63f9add9c" />
 <img width="1910" height="883" alt="image" src="https://github.com/user-attachments/assets/9dd79650-2cdd-4353-9ddd-4b56e51e6140" />
-```
+
 Both Amazon and Flipkart provide similar e-commerce functions such as search, product browsing, categories, cart, and account management. However, their UI differs in terms of color scheme, typography, layout, icons, and visual presentation. Their UX can be compared based on ease of navigation, product discovery, filtering, checkout, and overall user convenience.
 ## Result:
 The fundamentals of UI and UX were studied successfully. The differences and relationship between UI and UX were understood using real-world applications. Various UI/UX design tools were explored, and a basic user interface prototype for an online shopping application was designed using UI/UX principles.
-```
