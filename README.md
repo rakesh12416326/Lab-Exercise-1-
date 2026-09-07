@@ -1,12 +1,13 @@
 # Lab-Exercise-1-
 ## UI- UX EXPERIMENT 1
-## NAME : rakesh
+## NAME : rakesh s
 ## REG NO : 212225240114
 ## Date : 22-07-2026
 ## Aim:
 To explore the fundamentals of User Interface (UI) and User Experience (UX), differentiate UI and UX using real-world examples, understand their relationship in the design process, and demonstrate various UI/UX design tools.
 
 ## Algorithm:
+```
 Study the basic concepts and principles of UI and UX design.
 Identify the differences between UI and UX based on their purpose, focus, and design process.
 Select real-world applications such as Amazon, Google Pay, Swiggy, or Instagram for case study.
@@ -17,6 +18,8 @@ Create a simple interface using a UI/UX design tool.
 Apply basic design principles such as color, typography, spacing, alignment, consistency, and visual hierarchy.
 Observe the final design and identify areas for improvement.
 Record the observations and results.
+```
+```
 a) Explore the Fundamentals of UI and UX 
 UI – User Interface 
     UI refers to the visual and interactive elements of a digital product. 
@@ -76,7 +79,7 @@ UX:
   ● Simple checkout 
   ● Order tracking 
   ● Personalized recommendations 
-## Conclusion: 
+Conclusion: 
 Amazon needs both a good UI and good UX. Attractive product pages represent UI, while the 
 ease of searching, purchasing, and tracking an order represents UX. 
 Case Study: Flipkart 
@@ -96,7 +99,7 @@ UX:
 ● Simple checkout process 
 ● Order tracking 
 ● Easy cart management 
-## Conclusion: 
+Conclusion: 
 Flipkart combines an attractive and organized UI with a convenient shopping experience. The 
 visual elements such as product images, buttons, colors, and product cards represent UI, while 
 easy navigation, product discovery, filtering, checkout, and order tracking represent UX.
@@ -148,3 +151,4 @@ Canva can be used for:
   ● Simple UI mockups 
   ● Presentations
   ● Graphics
+```
